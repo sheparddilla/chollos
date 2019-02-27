@@ -1,0 +1,107 @@
+.intranet_header {
+	width: 900px;
+	height: 30px;
+	margin: 20px auto;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+.intranet_header_menu {
+	margin-top: 5px;
+}
+
+.intranet_header_links {
+	float: right;
+	margin-top: -20px;
+}
+
+.intranet_header_links a {
+	margin-right: 10px;
+}
+
+.intranet_header_menu a {
+	margin-right: 4px;
+}
+
+.intranet_content {
+    width: 900px;
+    height: 85%;
+    margin: 10px auto;
+    padding: 10px;
+    border: 1px solid black;
+	overflow:auto;
+}
+
+body{
+	font-family: Verdana;
+	font-size: 14;
+}
+
+.error{
+	background-color: purple;
+	width:10%;
+	text-align:center;
+	color:white;
+}
+
+#acierto{
+	background-color: green;
+	width:10%;
+}
+
+#containerPadre{
+	margin-top:2%;
+	
+}
+#categorias{
+	display:inline-block;
+}
+#websMargin{
+	display:inline;
+	margin-left:7%;
+}
+#filtrar{
+	display:inline;
+	margin-left:25%;
+}
+
+
+
+#filtrarbut{
+	color:#ffffff;
+	background-color: gray;
+}
+
+
+#tabla{
+	border:2px solid black;
+	width:100%;
+}
+
+#papelera{
+	float: right;
+	margin-right:10%;
+}
+
+.negrazo{
+	font-weight:bold;
+}
+
+form{
+	padding:2px;
+   cursor:pointer;
+   display:block;
+   width:290px;
+   margin: 0 auto;
+   text-align:left;
+}
+
+#centrarTexto{
+	text-align:center;
+	margin-right:10%;
+}
+
+#estado{
+	display:block;
+	margin-left:15%;
+}
